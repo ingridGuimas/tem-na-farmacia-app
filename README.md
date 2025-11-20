@@ -14,7 +14,7 @@ As telas incluem:
 - **Busca de Medicamentos**
 - **Lista de UBS com Disponibilidade**
 
-![Protótipo](https://github.com/ingridGuimas/tem-na-farmacia-app)
+![Protótipo](https://github.com/ingridGuimas/tem-na-farmacia-app/blob/main/prot%C3%B3tipo.png)
 
 ---
 
@@ -25,7 +25,6 @@ As telas incluem:
 - Banco: Firestore / PostgreSQL
 - Autenticação: JWT / Firebase Auth
 
----
+**Disciplina: Modelagem de Negócios e Requisitos**
 
-## 🚀 Como rodar (futuro desenvolvimento)
 
